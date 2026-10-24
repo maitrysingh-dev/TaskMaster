@@ -1,4 +1,4 @@
-# TaskFlow API
+# TaskFlow API ---
 
 A REST backend for task tracking and team collaboration, built with Java 17 and Spring Boot 3.
 Users can register, create projects (teams), invite people, create and assign tasks, filter and search them,
